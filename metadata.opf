@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">b082cb45-d0e3-4928-ae90-a9c9da272d03</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b082cb45-d0e3-4928-ae90-a9c9da272d03</dc:identifier>
+        <dc:title>Effective TypeScript</dc:title>
+        <dc:creator opf:file-as="Vanderkam, Dan" opf:role="aut">Dan Vanderkam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-29T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;TypeScript is a typed superset of JavaScript with the potential to solve many of the headaches for which JavaScript is famous. But TypeScript has a learning curve of its own, and understanding how to use it effectively can take time. This book guides you through 62 specific ways to improve your use of TypeScript.&lt;/p&gt;&lt;p&gt;Author Dan Vanderkam, a principal software engineer at Sidewalk Labs, shows you how to apply these ideas, following the format popularized by Effective C++ and Effective Java (both from Addison-Wesley). You'll advance from a beginning or intermediate user familiar with the basics to an advanced user who knows how to use the language well.&lt;/p&gt;&lt;p&gt;Effective TypeScript is divided into eight chapters:&lt;/p&gt;&lt;li&gt;Getting to Know TypeScript&lt;/li&gt;&lt;li&gt;TypeScript's Type System&lt;/li&gt;&lt;li&gt;Type Inference&lt;/li&gt;&lt;li&gt;Type Design&lt;/li&gt;&lt;li&gt;Working with any&lt;/li&gt;&lt;li&gt;Types Declarations and @types&lt;/li&gt;&lt;li&gt;Writing and Running Your Code&lt;/li&gt;&lt;li&gt;Migrating to TypeScript&lt;/li&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
